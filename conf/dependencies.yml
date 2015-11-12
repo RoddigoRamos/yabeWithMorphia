@@ -1,0 +1,7 @@
+# Application dependencies
+
+require:
+    - play
+    - crud
+    - secure
+    - play -> morphia 1.2.12
