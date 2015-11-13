@@ -1,8 +1,8 @@
 /** Main layout **/
 
 html, body {
-    background: #364B66 !important;
-    font-family: Helvetica, Arial, Sans !important;
+    background-color: #1ABC9C;
+    font-family: "Montserrat",sans-serif;
 }
 
 body {
